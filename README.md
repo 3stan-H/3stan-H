@@ -6,7 +6,7 @@ I'm a 3rd-year Electrical Engineering student at Toronto Metropolitan University
 
 Most of what's here is hardware-adjacent: PCB designs in KiCad, embedded systems work with microcontrollers, and the occasional software project. I'm currently on the electrical/PCB design sub-team at Toronto MetRobotics, and I'm always looking for an excuse to learn a new tool or dive into a part of EE I haven't touched yet.
 
-🔧 What I work with: C/C++, Python, Java, KiCad, Arduino, CAN bus
+🔧 What I work with: C/C++, Python, Java, KiCad, Arduino
 
 📌 Pinned below: a few of my favorite projects — PCB designs, embedded systems builds, and hardware/software integration work.
 
