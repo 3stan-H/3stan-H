@@ -10,7 +10,7 @@ Most of what's here is hardware-adjacent: PCB designs in KiCad, embedded systems
 
 📌 Pinned below: a few of my favorite projects — PCB designs, embedded systems builds, and hardware/software integration work.
 
-📫 Reach out: LinkedIn · tristanhsiung@gmail.com
+📫 Reach out: [LinkedIn](https://www.linkedin.com/in/tristan-hsiung/) · [Email](tristanhsiung@gmail.com)
 
 <!---
 3stan-H/3stan-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
